@@ -7,5 +7,3 @@
 - 📫 How to reach me: ben.rosner.williamsburg@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've played over 100 escape rooms!
-
-![https://www.linkedin.com/in/benrosner/](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=LinkedIn&logoColor=Blue)
