@@ -8,4 +8,4 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've played over 100 escape rooms!
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=LinkedIn&logoColor=Blue)
+![https://www.linkedin.com/in/benrosner/](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=LinkedIn&logoColor=Blue)
