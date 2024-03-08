@@ -1,6 +1,6 @@
 ### Hi there, I'm Ben! 👋
 
-- 🔭 I’m a recent graduate of Turing School of Software and Design
+- 🔭 I’m a recent graduate of Turing School of Software and Design.
 - 🌱 I’m currently learning TypeScript and React.
 - 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about React/JavaScript/HTML/CSS.
