@@ -3,7 +3,7 @@
 
 ### Currently Working On
 * I'm currently working on my capstone project Weather Together. It is a daily weather guessing game using TypeScript/React.
-* I'm currently taking the MIT OpenCourseWare Introduction To Computer Science And Programming In Python course.
+* I'm also currently working on a Memory Match game in TypeScript/React.
 
 ### Technologies
 
