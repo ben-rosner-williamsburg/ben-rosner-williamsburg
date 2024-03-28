@@ -2,7 +2,7 @@
 
 
 ### Currently Working On
-* Our team took first place in Turing School of Software and Design's Demo Comp for our project [Weather Together](https://weather-together.github.io/)!
+* Our team took first place in Turing School of Software and Design's Demo Comp for our project [Weather Together](https://weather-together.github.io/weather1-fe)!
 * I'm also currently working on a Memory Match game in TypeScript/React.
 
 ### Technologies
