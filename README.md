@@ -2,7 +2,7 @@
 
 
 ### Currently Working On
-* I'm currently working on my capstone project Weather Together. It is a daily weather guessing game using TypeScript/React.
+* Our team took first place in Turing School of Software and Design's Demo Comp for our project [Weather Together](https://weather-together.github.io/)
 * I'm also currently working on a Memory Match game in TypeScript/React.
 
 ### Technologies
