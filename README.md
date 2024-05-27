@@ -24,5 +24,5 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've played over 100 escape rooms!
 
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-rosner-williamsburg)](https://github.com/benrosnerwilliamsburg/github-readme-stats)
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-rosner-williamsburg)](https://github.com/anuraghazra/github-readme-stats)
 
