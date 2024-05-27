@@ -3,7 +3,7 @@
 
 ### Currently Working On
 * Our team took first place in Turing School of Software and Design's Demo Comp for our project [WeatherTogether](https://weather-together.github.io/weather1-fe)!
-* I'm also currently working on a Memory Match game in TypeScript/React.
+* I'm also currently working on working my way through the FreeCodeCamp curriculum in order to expand my skillset.
 
 ### Technologies
 
