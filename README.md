@@ -3,7 +3,7 @@
 
 ### Currently Working On
 * Our team took first place in Turing School of Software and Design's Demo Comp for our project [WeatherTogether](https://weather-together.github.io/weather1-fe)!
-* I'm currently brainstorming future projects to work on.
+* I'm currently learning Python through Boot.dev.
 
 ### Technologies
 
@@ -15,7 +15,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=orange)
-
+![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
 - 🌱 I’m currently learning TypeScript and GraphQL.
