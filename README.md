@@ -3,7 +3,7 @@
 
 ### Currently Working On
 * Our team took first place in Turing School of Software and Design's Demo Comp for our project [WeatherTogether](https://weather-together.github.io/weather1-fe)!
-* I'm currently learning Python through Boot.dev.
+* I'm currently learning Angular and working on my first Angular project!
 
 ### Technologies
 
@@ -18,7 +18,7 @@
 ![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning Angular.
 - 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about React/JavaScript/HTML/CSS.
 - 📫 How to reach me: ben.rosner.williamsburg@gmail.com
