@@ -15,7 +15,7 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=orange)
-![Python](https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=yellow)
+![Angular](https://img.shields.io/badge/angular-red.svg?style=for-the-badge&logo=angular&logoColor=black)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
 - 🌱 I’m currently learning Angular.
