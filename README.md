@@ -3,7 +3,7 @@
 
 ### Currently Working On
 * Our team took first place in Turing School of Software and Design's Demo Comp for our project [WeatherTogether](https://weather-together.github.io/weather1-fe)!
-* I'm currently learning Angular and working on my first Angular project!
+* I'm currently working on a cross-functional team to build a project with the [Bootcampr.io](https://bootcampr.io) platform.
 
 ### Technologies
 
@@ -15,10 +15,9 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=orange)
-![Angular](https://img.shields.io/badge/angular-red.svg?style=for-the-badge&logo=angular&logoColor=black)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
-- 🌱 I’m currently learning Angular.
+- 🌱 I’m currently learning the MERN stack.
 - 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about React/JavaScript/HTML/CSS.
 - 📫 How to reach me: ben.rosner.williamsburg@gmail.com
