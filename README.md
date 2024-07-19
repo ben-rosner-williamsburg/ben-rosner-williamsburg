@@ -4,6 +4,7 @@
 ### Currently Working On
 * Our team took first place in Turing School of Software and Design's Demo Comp for our project [WeatherTogether](https://weather-together.github.io/weather1-fe)!
 * I'm currently working on a cross-functional team to build a project with the [Bootcampr.io](https://bootcampr.io) platform.
+* I'm also volunteering on the [Model.Earth](https://model.earth/) project as a Front-End Developer.
 
 ### Technologies
 
