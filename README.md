@@ -24,6 +24,7 @@
 - 📫 How to reach me: ben.rosner.williamsburg@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've played over 100 escape rooms!
+- 🈺 I am looking for work! Please [email](mailto:ben.rosner.williamsburg@gmail.com) me if you are interesting in hiring.
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-rosner-williamsburg)](https://github.com/anuraghazra/github-readme-stats)
 
