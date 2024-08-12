@@ -20,7 +20,7 @@
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning C#/.NET.
 - 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about React/JavaScript/HTML/CSS.
 - 📫 How to reach me: ben.rosner.williamsburg@gmail.com
