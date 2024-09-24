@@ -3,7 +3,8 @@
 
 ### Currently Working On
 * Our team took first place in Turing School of Software and Design's Demo Comp for our project [WeatherTogether](https://weather-together.github.io/weather1-fe)!
-* I'm also volunteering on the [Model.Earth](https://model.earth/) project as a Front-End Developer.
+* I'm volunteering on the [Model.Earth](https://model.earth/) project as a Front-End Developer.
+* I'm also currently working on an app called Bandr. (Coming soon!)
 
 ### Technologies
 
