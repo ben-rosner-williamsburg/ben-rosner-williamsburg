@@ -16,6 +16,7 @@
 ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)
 ![Figma](https://img.shields.io/badge/figma-black.svg?style=for-the-badge&logo=figma&logoColor=orange)
 ![Vite](https://img.shields.io/badge/vite-yellow.svg?style=for-the-badge&logo=vite&logoColor=purple)
+![Node](https://img.shields.io/badge/nodejs-black.svg?style=for-the-badge&logo=nodejs&logoColor=yellow)
 ![Tailwind](https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
