@@ -3,7 +3,7 @@
 
 ### Currently Working On
 * Our team took first place in Turing School of Software and Design's Demo Comp for our project [WeatherTogether](https://youtu.be/dWjINU8V57U?si=2z1ZgmZr0nAQ4V3e/)!
-* I'm also currently working on an app called Roughpad. (Coming soon!)
+* I'm also currently working on an app called Bandr. (Coming soon!)
 
 ### Technologies
 
