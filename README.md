@@ -3,7 +3,7 @@
 
 ### Currently Working On
 * Our team took first place in Turing School of Software and Design's Demo Comp for our project [WeatherTogether](https://youtu.be/dWjINU8V57U?si=2z1ZgmZr0nAQ4V3e/)!
-* I'm also currently working on an app called Bandr. (Coming soon!)
+* I'm also currently working on a real estate app in Next.js. (Coming soon!)
 
 ### Technologies
 
@@ -20,7 +20,7 @@
 ![Tailwind](https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
-- 🌱 I’m currently learning TypeScript.
+- 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about React/JavaScript/HTML/CSS.
 - 📫 How to reach me: ben.rosner.williamsburg@gmail.com
