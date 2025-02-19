@@ -2,8 +2,8 @@
 
 
 ### Currently Working On
-* Our team took first place in Turing School of Software and Design's Demo Comp for our project [WeatherTogether](https://youtu.be/dWjINU8V57U?si=2z1ZgmZr0nAQ4V3e/)!
-* I'm also currently working on a real estate app in Next.js. (Coming soon!)
+* I'm currently interning at a startup called [Eazifunds](https://www.eazifunds.com/)!
+* I'm also working on a real estate app in Next.js. (Coming soon!)
 
 ### Technologies
 
