@@ -3,7 +3,6 @@
 
 ### Currently Working On
 * I'm currently interning at a startup called [Eazifunds](https://www.eazifunds.com/)!
-* I'm also working on a real estate app in Next.js. (Coming soon!)
 
 ### Technologies
 
