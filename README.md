@@ -2,7 +2,7 @@
 
 
 ### Currently Working On
-* I'm currently interning at a startup called [Eazifunds](https://www.eazifunds.com/)!
+* I'm currently interning at a startup called [eAI](https://www.trusteai.com/)!
 
 ### Technologies
 
