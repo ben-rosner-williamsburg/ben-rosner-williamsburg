@@ -19,7 +19,7 @@
 ![Tailwind](https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
-- 🌱 I’m currently learning Ruby/Rails.
+- 🌱 I’m currently learning Next.js.
 - 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about React/JavaScript/HTML/CSS.
 - 📫 How to reach me: ben.rosner.williamsburg@gmail.com
