@@ -2,7 +2,7 @@
 
 
 ### Currently Working On
-* I've been building a countdown clock in TypeScript.
+* I've been building a countdown clock in TypeScript and improving old projects.
 ### Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
