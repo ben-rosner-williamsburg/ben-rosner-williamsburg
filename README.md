@@ -2,7 +2,7 @@
 
 
 ### Currently Working On
-* I've been building a NYC Arthouse Film Calendar in React/TypeScript and improving old projects.
+* I've been improving old projects in React/TypeScript.
 ### Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -18,7 +18,7 @@
 ![Tailwind](https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
-- 🌱 I’m currently learning Next.js.
+- 🌱 I’m currently learning Next.js and GraphQL.
 - 👯 I’m looking to collaborate on any open-source projects.
 - 💬 Ask me about HTML/CSS/JavaScript/React.
 - 📫 How to reach me: ben.rosner.williamsburg@gmail.com
