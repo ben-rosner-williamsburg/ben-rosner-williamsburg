@@ -18,9 +18,9 @@
 ![Tailwind](https://img.shields.io/badge/tailwind-blue.svg?style=for-the-badge&logo=tailwind&logoColor=white)
 
 - 🔭 I’m a recent graduate of Turing School of Software and Design.
-- 🌱 I’m currently learning Next.js and GraphQL.
+- 🌱 I’m currently learning Ruby.
 - 👯 I’m looking to collaborate on any open-source projects.
-- 💬 Ask me about HTML/CSS/JavaScript/React.
+- 💬 Ask me about HTML/CSS/JavaScript/React/TypeScript.
 - 📫 How to reach me: ben.rosner.williamsburg@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've played over 150 escape rooms!
