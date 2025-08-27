@@ -2,7 +2,7 @@
 
 
 ### Currently Working On
-* I've been improving old projects in React/TypeScript.
+* I've been going through the curriculum at [Launch School](https://launchschool.com/)!
 ### Technologies
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
