@@ -26,5 +26,3 @@
 - ⚡ Fun fact: I've played over 150 escape rooms!
 - 🈺 I am looking for work! Please [email](mailto:ben.rosner.williamsburg@gmail.com) me if you are interested in hiring.
 
-[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=ben-rosner-williamsburg)](https://github.com/anuraghazra/github-readme-stats)
-
